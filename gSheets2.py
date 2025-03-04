@@ -8,13 +8,13 @@ def embed_google_sheet(sheet_url, width=1000, height=600):
 def main():
     # Set page configuration
     st.set_page_config(
-        page_title="Google Sheets Viewer",
+        page_title="@JonPGH Reports Viewer",
         page_icon="📊",
         layout="wide"
     )
 
     # Title
-    st.title("Google Sheets Viewer")
+    st.title("@JonPGH Reports Viewer")
 
     # Define your Google Sheets URLs and their custom heights
     # Replace these with your actual sheet URLs and adjust heights as needed
