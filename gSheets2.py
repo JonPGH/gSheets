@@ -1,7 +1,8 @@
 import streamlit as st
 #https://docs.google.com/spreadsheets/d/e/2PACX-1vSXr-fUgTz_OOWDXHqMMNKCYu8lHUM_DwHPuKpEzn4kQUQkLfKIm2rrlZG8v6iRR8dOP168pKSikja-/pubhtml
-def embed_google_sheet(sheet_url, width=1000, height=600):
+def embed_google_sheet(sheet_url, width=1000, height=600, sendlink="x"):
     """Function to embed a published Google Sheet"""
+    st.markdown(f'<a href="{sendlink}">Click here to be taken to a filterable and searchable sheet</a>', unsafe_allow_html=True)
     iframe = f'<iframe src="{sheet_url}" width="{width}%" height="{height}" frameborder="0"></iframe>'
     return iframe
 
@@ -22,17 +23,20 @@ def main():
         "Yesterday SP": {
             "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSXr-fUgTz_OOWDXHqMMNKCYu8lHUM_DwHPuKpEzn4kQUQkLfKIm2rrlZG8v6iRR8dOP168pKSikja-/pubhtml",
             "height": 1000,
-            "width": 100
+            "width": 100,
+            "sendlink": "https://docs.google.com/spreadsheets/d/1NcQ62cP1Sebe628iLLmAhh7O9ZU54FvvsUpylOpNFkw/edit?usp=sharing"
         },
         "Player Checklist": {
             "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT4vzpvmqcxEiRPEJpRzfxZaquIKs0bLVVtU0-Ft6KB9AI-HyvLgaWKnzVliyNW76DTKC61zgsLZdeN/pubhtml",
             "height": 1200,
-            "width": 100
+            "width": 100,
+            "sendlink": "https://docs.google.com/spreadsheets/d/1WYeOMCzyMb1OK1P1Z3g4HFtIIpqtPx465hA8eO2pO9k/edit?usp=sharing"
         },
         "Player Rater": {
             "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT3c3eUbG_JbBh3U4d8-L89Ee7GVanIAWwUwNrEfcivqD7C66bTs2F0pjoJfdYSGHypfFFa8QtKY0Mz/pubhtml",
             "height": 1200,
-            "width": 100
+            "width": 100,
+            "sendlink": "https://docs.google.com/spreadsheets/d/1QxshtWnbruCr73TygDoYW60qXgcC6H94ylPP44uW4os/edit?usp=sharing"
         }
     }
 
@@ -47,7 +51,7 @@ def main():
     st.header(selected_sheet)
     sheet_info = sheets[selected_sheet]
     st.markdown(
-        embed_google_sheet(sheet_info["url"], height=sheet_info["height"], width=sheet_info["width"]),
+        embed_google_sheet(sheet_info["url"], height=sheet_info["height"], width=sheet_info["width"], sendlink=sheet_info["sendlink"]),
         unsafe_allow_html=True
     )
 
