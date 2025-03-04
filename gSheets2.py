@@ -22,17 +22,17 @@ def main():
         "Yesterday SP": {
             "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSXr-fUgTz_OOWDXHqMMNKCYu8lHUM_DwHPuKpEzn4kQUQkLfKIm2rrlZG8v6iRR8dOP168pKSikja-/pubhtml",
             "height": 1000,
-            "width": 56
+            "width": 100
         },
         "Player Checklist": {
             "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT4vzpvmqcxEiRPEJpRzfxZaquIKs0bLVVtU0-Ft6KB9AI-HyvLgaWKnzVliyNW76DTKC61zgsLZdeN/pubhtml",
             "height": 1200,
-            "width": 65
+            "width": 100
         },
         "Player Rater": {
             "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT3c3eUbG_JbBh3U4d8-L89Ee7GVanIAWwUwNrEfcivqD7C66bTs2F0pjoJfdYSGHypfFFa8QtKY0Mz/pubhtml",
             "height": 1200,
-            "width": 60
+            "width": 100
         }
     }
 
