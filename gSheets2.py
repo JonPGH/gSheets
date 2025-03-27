@@ -26,17 +26,23 @@ def main():
             "width": 100,
             "sendlink": "https://docs.google.com/spreadsheets/d/1NcQ62cP1Sebe628iLLmAhh7O9ZU54FvvsUpylOpNFkw/edit?usp=sharing"
         },
-        "Player Checklist": {
-            "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT4vzpvmqcxEiRPEJpRzfxZaquIKs0bLVVtU0-Ft6KB9AI-HyvLgaWKnzVliyNW76DTKC61zgsLZdeN/pubhtml",
+        "Bullpen Data": {
+            "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRL1UJ_X4SjTnG083RAMEhec_3LDZ7WerQmCGpzdZ0rtzIGX7fNgeThbs6Lqg9V_SEiFuZUa3PzRvMj/pubhtml",
             "height": 1200,
             "width": 100,
-            "sendlink": "https://docs.google.com/spreadsheets/d/1WYeOMCzyMb1OK1P1Z3g4HFtIIpqtPx465hA8eO2pO9k/edit?usp=sharing"
+            "sendlink": "https://docs.google.com/spreadsheets/d/1UXv49REVrYX4CNPaWE9f_ZrPa4BwYliduQbt5XWfS08/edit?usp=sharing"
         },
-        "Player Rater": {
-            "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT3c3eUbG_JbBh3U4d8-L89Ee7GVanIAWwUwNrEfcivqD7C66bTs2F0pjoJfdYSGHypfFFa8QtKY0Mz/pubhtml",
+        "Daily Matchup Cheat Sheet": {
+            "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT0Pv08UyK4mUUWdD1Qgb_0mtBh5CGn8r6cIN5uCGxuoMpwo-oKJdPMPK0Dp-HLEs7bQSgYL_5s6uRo/pubhtml",
             "height": 1200,
             "width": 100,
-            "sendlink": "https://docs.google.com/spreadsheets/d/1QxshtWnbruCr73TygDoYW60qXgcC6H94ylPP44uW4os/edit?usp=sharing"
+            "sendlink": "https://docs.google.com/spreadsheets/d/1TWawMcNVrI-pQg2XK4XBT5rBVtjJIiDTWIoiIqeOHL4/edit?usp=sharing"
+        },
+        "Upcmoing Probable Pitchers": {
+            "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQBhezcgx6C7owN2rvoUehvlppLsxJNd2u-nfQpI7pMmvs_uEYTf-245ez2AyMF6JoekkgMnrMwCuul/pubhtml",
+            "height": 1200,
+            "width": 100,
+            "sendlink": "https://docs.google.com/spreadsheets/d/1cen29W7B_lK12A_u_4lvwYg-pljg9Vcc24QsVy0sL6Y/edit?usp=sharing"
         }
     }
 
