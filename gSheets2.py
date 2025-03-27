@@ -38,7 +38,7 @@ def main():
             "width": 100,
             "sendlink": "https://docs.google.com/spreadsheets/d/1TWawMcNVrI-pQg2XK4XBT5rBVtjJIiDTWIoiIqeOHL4/edit?usp=sharing"
         },
-        "Upcmoing Probable Pitchers": {
+        "Upcoming Probable Pitchers": {
             "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQBhezcgx6C7owN2rvoUehvlppLsxJNd2u-nfQpI7pMmvs_uEYTf-245ez2AyMF6JoekkgMnrMwCuul/pubhtml",
             "height": 1200,
             "width": 100,
