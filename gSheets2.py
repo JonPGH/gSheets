@@ -24,7 +24,25 @@ def main():
             "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSXr-fUgTz_OOWDXHqMMNKCYu8lHUM_DwHPuKpEzn4kQUQkLfKIm2rrlZG8v6iRR8dOP168pKSikja-/pubhtml",
             "height": 1000,
             "width": 100,
-            "sendlink": "https://docs.google.com/spreadsheets/d/1NcQ62cP1Sebe628iLLmAhh7O9ZU54FvvsUpylOpNFkw/edit?usp=sharing"
+            "sendlink": "https://docs.google.com/spreadsheets/d/1LfkPerLCt5jwtnhz4DwxSruo88CU6JnJRrjBSVnYETo/edit?gid=0#gid=0"
+        },
+        "Automated SP Ranks": {
+            "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSlQ4AFKZHaxRJJrfLIOlh2kjwaA6P65NqM4bRLcryZ_i4ClcuJYrCNt1l_52fN-IYDfrtb1d_pBav8/pubhtml",
+            "height": 1200,
+            "width": 100,
+            "sendlink": "https://docs.google.com/spreadsheets/d/1UXv49REVrYX4CNPaWE9f_ZrPa4BwYliduQbt5XWfS08/edit?usp=sharing"
+        },
+        "Player Checklist": {
+            "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT4vzpvmqcxEiRPEJpRzfxZaquIKs0bLVVtU0-Ft6KB9AI-HyvLgaWKnzVliyNW76DTKC61zgsLZdeN/pubhtml",
+            "height": 1200,
+            "width": 100,
+            "sendlink": "https://docs.google.com/spreadsheets/d/1WYeOMCzyMb1OK1P1Z3g4HFtIIpqtPx465hA8eO2pO9k/edit?gid=1165302100#gid=1165302100"
+        },
+        "Start Ranks": {
+            "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRAyYm2-WI12f2LvT7hspejRcUVuqdcTCipOw7AJlNzZMughxVkRWJFVG39gXcf8xJgQk7iG1660yn9/pubhtml",
+            "height": 1200,
+            "width": 100,
+            "sendlink": "https://docs.google.com/spreadsheets/d/1yZfWaVJtVwtu8Mgdt1nAJJ8chBnSYL1U1DTrsQUtQ9Y/edit?gid=0#gid=0"
         },
         "Bullpen Data": {
             "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRL1UJ_X4SjTnG083RAMEhec_3LDZ7WerQmCGpzdZ0rtzIGX7fNgeThbs6Lqg9V_SEiFuZUa3PzRvMj/pubhtml",
